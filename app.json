@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ostoslista",
+    "slug": "ostoslista",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ostoslista"
+}
